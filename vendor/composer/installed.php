@@ -11,6 +11,15 @@
   ),
   'versions' => 
   array (
+    'almasaeed2010/adminlte' => 
+    array (
+      'pretty_version' => 'v2.4.18',
+      'version' => '2.4.18.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => 'e7ffa67a4649dc08d2018708a38604a6c0a02ab6',
+    ),
     'behat/gherkin' => 
     array (
       'pretty_version' => 'v4.7.1',
@@ -73,6 +82,15 @@
       array (
       ),
       'reference' => '9bac5e971dd391e2802dca5400bbeacbaea9eb86',
+    ),
+    'cebe/yii2-gravatar' => 
+    array (
+      'pretty_version' => '1.1',
+      'version' => '1.1.0.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => 'c9c01bd14c9bdee9e5ae1ef1aad23f80c182c057',
     ),
     'codeception/codeception' => 
     array (
@@ -155,6 +173,15 @@
       ),
       'reference' => 'fa0bb946b6d61279f461bcc5a677ac0ed5eab9b3',
     ),
+    'dmstr/yii2-adminlte-asset' => 
+    array (
+      'pretty_version' => '2.6.2',
+      'version' => '2.6.2.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => 'c96336e1960ebc6c1e72487a7c6ca1a1589519fe',
+    ),
     'doctrine/instantiator' => 
     array (
       'pretty_version' => '1.4.0',
@@ -199,6 +226,15 @@
       array (
       ),
       'reference' => 'ab3f5364d01f2c2c16113442fb987d26e4004913',
+    ),
+    'fortawesome/font-awesome' => 
+    array (
+      'pretty_version' => 'v4.7.0',
+      'version' => '4.7.0.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => 'a8386aae19e200ddb0f6845b5feeee5eb7013687',
     ),
     'giggsey/libphonenumber-for-php' => 
     array (
@@ -517,6 +553,15 @@
       ),
       'reference' => '0674838c869e5ccabc15756ee0c065ccecd09969',
     ),
+    'mdmsoft/yii2-admin' => 
+    array (
+      'pretty_version' => '2.12',
+      'version' => '2.12.0.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => '10e526fbcf6350ed4cc9ba6298f887d611685367',
+    ),
     'mpdf/mpdf' => 
     array (
       'pretty_version' => 'v8.0.10',
@@ -538,6 +583,15 @@
       array (
         0 => '1.10.2',
       ),
+    ),
+    'npm-asset/bootstrap' => 
+    array (
+      'pretty_version' => '4.6.0',
+      'version' => '4.6.0.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => NULL,
     ),
     'opis/closure' => 
     array (
@@ -739,6 +793,15 @@
       array (
       ),
       'reference' => '120b605dfeb996808c31b6477290a714d356e822',
+    ),
+    'rmrevin/yii2-fontawesome' => 
+    array (
+      'pretty_version' => '2.17.1',
+      'version' => '2.17.1.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => '65ce306da864f4d558348aeba040ed7876878090',
     ),
     'sebastian/code-unit-reverse-lookup' => 
     array (
@@ -1106,6 +1169,15 @@
       array (
       ),
       'reference' => '073c9ab0a4eb71f2485d84c96a1967130300d8fc',
+    ),
+    'yiisoft/yii2-bootstrap4' => 
+    array (
+      'pretty_version' => '2.0.9',
+      'version' => '2.0.9.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => 'a75555e4a888508416fadfd0a2b94881342cdd45',
     ),
     'yiisoft/yii2-composer' => 
     array (

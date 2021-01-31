@@ -36,15 +36,24 @@ class ComposerStaticInitbfa6190355345dabb21103deff504bf7
             'yii\\debug\\' => 10,
             'yii\\composer\\' => 13,
             'yii\\bootstrap\\' => 14,
+            'yii\\bootstrap4\\' => 15,
             'yii\\' => 4,
         ),
         's' => 
         array (
             'setasign\\Fpdi\\' => 14,
         ),
+        'r' => 
+        array (
+            'rmrevin\\yii\\fontawesome\\' => 24,
+        ),
         'p' => 
         array (
             'phpDocumentor\\Reflection\\' => 25,
+        ),
+        'm' => 
+        array (
+            'mdm\\admin\\' => 10,
         ),
         'l' => 
         array (
@@ -86,6 +95,10 @@ class ComposerStaticInitbfa6190355345dabb21103deff504bf7
         'j' => 
         array (
             'johnitvn\\ajaxcrud\\' => 18,
+        ),
+        'd' => 
+        array (
+            'dmstr\\' => 6,
         ),
         'c' => 
         array (
@@ -185,6 +198,10 @@ class ComposerStaticInitbfa6190355345dabb21103deff504bf7
         array (
             0 => __DIR__ . '/..' . '/yiisoft/yii2-bootstrap/src',
         ),
+        'yii\\bootstrap4\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/yiisoft/yii2-bootstrap4/src',
+        ),
         'yii\\' => 
         array (
             0 => __DIR__ . '/..' . '/yiisoft/yii2',
@@ -193,11 +210,19 @@ class ComposerStaticInitbfa6190355345dabb21103deff504bf7
         array (
             0 => __DIR__ . '/..' . '/setasign/fpdi/src',
         ),
+        'rmrevin\\yii\\fontawesome\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/rmrevin/yii2-fontawesome',
+        ),
         'phpDocumentor\\Reflection\\' => 
         array (
             0 => __DIR__ . '/..' . '/phpdocumentor/reflection-common/src',
             1 => __DIR__ . '/..' . '/phpdocumentor/reflection-docblock/src',
             2 => __DIR__ . '/..' . '/phpdocumentor/type-resolver/src',
+        ),
+        'mdm\\admin\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/mdmsoft/yii2-admin',
         ),
         'libphonenumber\\' => 
         array (
@@ -326,6 +351,10 @@ class ComposerStaticInitbfa6190355345dabb21103deff504bf7
         'johnitvn\\ajaxcrud\\' => 
         array (
             0 => __DIR__ . '/..' . '/johnitvn/yii2-ajaxcrud/src',
+        ),
+        'dmstr\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/dmstr/yii2-adminlte-asset',
         ),
         'cebe\\markdown\\' => 
         array (
@@ -484,6 +513,13 @@ class ComposerStaticInitbfa6190355345dabb21103deff504bf7
     );
 
     public static $prefixesPsr0 = array (
+        'c' => 
+        array (
+            'cebe\\gravatar\\' => 
+            array (
+                0 => __DIR__ . '/..' . '/cebe/yii2-gravatar',
+            ),
+        ),
         'H' => 
         array (
             'HTMLPurifier' => 
